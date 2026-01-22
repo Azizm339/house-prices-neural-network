@@ -10,7 +10,7 @@ Strong performance for a pure neural network approach without heavy feature engi
 
 ### Notebook
 Main implementation, preprocessing, training and evaluation:  
-[house_price_model.ipynb](house_price_model.ipynb)
+[[house_price_model.ipynb](house_price_model.ipynb)](https://github.com/Azizm339/house-prices-neural-network/blob/main/house-prices-neural-network.ipynb)
 
 ### Technologies
 - Python  
